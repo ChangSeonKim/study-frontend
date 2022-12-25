@@ -1,0 +1,10 @@
+.contaniner{
+  color: blue;
+  font-size: 22px;
+  font-weight: 200;
+  font-family: serif;
+  line-height: 2;
+  text-align: center;
+  text-decoration: underline;
+  word-break: keep-all;
+}
